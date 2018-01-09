@@ -1,3 +1,8 @@
+## NAGG API
+News Aggregrator API
+<p>Built on Laravel, responsible for continually scraping RSS feeds and serving them to the front end.</p>
+
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
