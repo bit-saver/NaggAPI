@@ -1,0 +1,1 @@
+<?php include base_path() . '/public/index.html' ?>
